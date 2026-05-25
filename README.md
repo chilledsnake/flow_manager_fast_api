@@ -59,6 +59,7 @@ tests/
 ```bash
 python -m venv .venv           # Create virtual environment
 source .venv/bin/activate      # Activate it
+pip install poetry
 poetry install                 # Install dependencies
 ```
 
