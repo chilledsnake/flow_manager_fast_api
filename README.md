@@ -56,6 +56,8 @@ tests/
 
 ## Quick Start
 
+Python 3.13 required
+
 ```bash
 python -m venv .venv           # Create virtual environment
 source .venv/bin/activate      # Activate it
